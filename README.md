@@ -56,7 +56,7 @@ Here should be everything you need to make this HackPad and the price list (in I
 - 1x Socket IC 8pin : IDR 5,000
 - 1x 1.3" OLED Module IIC I2C 128X64  : IDR 60,000
 - 1x PinHeader_1x06_P2.54mm_Vertical : IDR 2,500
-- 6x 1k Resistors  : IDR 1,000
+- 6x 1k Resistors  : IDR 3,100
 - PCB Printing (in raftech - pcb production in Indonesia) : IDR 140,000
 - Estimated Delivery Cost (including shipment protection): IDR 60,000
-Total bill: IDR 324100 = USD 19,10
+Total bill: IDR 326200 = USD 19,23
