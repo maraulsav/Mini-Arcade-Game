@@ -23,7 +23,7 @@ I used OLED display schematics and footprints from https://github.com/pforrmi/Ki
 
 These are the Footprints I used 
 - Display:128x64OLED
-- Battery:BatteryHolder_Keystone_3002_1x2032
+- Battery:Battery_Panasonic_CR2032-HFN_Horizontal_CircularHoles
 - Buzzer_Beeper:Buzzer_12x9.5RM7.6
 - LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder
 - MountingHole:MountingHole_2.1mm
@@ -34,10 +34,10 @@ These are the Footprints I used
 - Package_DIP:DIP-8_W7.62mm_Socket_LongPads
 
 Schematic 
-<img width="969" height="669" alt="Screenshot 2026-01-20 at 10 49 50" src="https://github.com/user-attachments/assets/8cb24f01-63f6-40d1-84ac-8b988ff6a16a" />
+<img width="761" height="539" alt="Screenshot 2026-01-29 at 06 01 36" src="https://github.com/user-attachments/assets/f598915d-3c84-4a5f-9714-c62936505f56" />
 
 PCB
-<img width="371" height="501" alt="Screenshot 2026-01-20 at 10 50 19" src="https://github.com/user-attachments/assets/272b2a8f-f4ee-4b4f-b464-2d93fb92da6e" />
+<img width="478" height="516" alt="Screenshot 2026-01-29 at 06 02 01" src="https://github.com/user-attachments/assets/0762f72c-82b6-4d6d-b4c6-2cf54c1f8330" />
 
 
 ## Code Overview
@@ -49,14 +49,16 @@ This Mini Arcade Game uses the Arduino IDE
 ## BOM:
 Here should be everything you need to make this HackPad and the price list (in IDR but later I will convert to dollar)
 - 3x Small push Button button  : IDR 900
-- 1x Slide switch  : IDR 1,200
+- 10x Slide switch  : IDR 5,000
 - 1x SMD LED   : IDR 1,000
 - 1x Buzzer   : IDR 2,500
-- 1x ATtiny 85   : IDR 50,000
+- 1x ATtiny 85   : IDR 36,000
 - 1x Socket IC 8pin : IDR 5,000
-- 1x 1.3" OLED Module IIC I2C 128X64  : IDR 60,000
+- 1x 1.3" OLED Module IIC I2C 128X64  : IDR 26,000
 - 1x PinHeader_1x06_P2.54mm_Vertical : IDR 2,500
-- 6x 1k Resistors  : IDR 3,100
-- PCB Printing (in raftech - pcb production in Indonesia) : IDR 140,000
-- Estimated Delivery Cost (including shipment protection): IDR 60,000
-Total bill: IDR 326200 = USD 19,23
+- 6x 1k Resistors  : IDR 5,000
+- Estimated Delivery cost  IDR 32,000
+Total component bill : IDR 116,900   =  USD 6.97
+- PCB Printing (JLCPCB) : USD 4 
+- Estimated Delivery Cost (JLCPCB - using UPS): USD 1.5
+Total bill: USD 12.47
