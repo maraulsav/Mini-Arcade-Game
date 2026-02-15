@@ -70,4 +70,4 @@ Here should be everything you need to make this HackPad and the price list (in I
 | PCB Delivery | USD 1.50 |
 | **Total PCB** | **USD 5.50** |
 | **TOTAL ALL** | **USD 12.47** |
-*Notes: Items marked with (*) indicate minimum purchase quantities set by the seller.*
+_Notes: Items marked with (*) indicate minimum purchase quantities set by the seller._
