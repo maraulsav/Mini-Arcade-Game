@@ -64,16 +64,16 @@ This Mini Arcade Game uses the Arduino IDE
 Here should be everything you need to make this HackPad and the price list (in IDR but later I will convert to dollar)
 | Item | Quantity | Unit Price | Total Price | Link |
 |------|----------|------------|-------------|------|
-| Small push button | 3 | IDR 300 | IDR 900 | https://www.tokopedia.com/arduinonano/black-small-push-button-copper-foot-micro-square-4p-4pin-6x6x5mm-6x6x5 |
-| Slide switch* | 10 | IDR 500 | IDR 5,000 | https://www.tokopedia.com/arduinonano/slide-dip-switch-1p-1-pin-red-color-2-pin-2p-kaki-2-54mm-warna-merah |
-| SMD LED | 1 | IDR 1,000 | IDR 1,000 | https://www.tokopedia.com/arduinonano/10pcs-led-smd-1206-6-warna-orange-blue-green-white-yellow-red-1730749956984767597 |
-| Buzzer | 1 | IDR 2,500 | IDR 2,500 | https://www.tokopedia.com/arduinonano/5v-buzzer-active-dc-sot-plastic-tube-long-sound-12x9-5mm-st-continuous |
-| ATtiny85 | 1 | IDR 36,000 | IDR 36,000 | https://www.tokopedia.com/cncstorejogja/attiny85-20pu-attiny85-attiny-85-avr-dip-8 |
-| IC Socket 8-pin* | 10 | IDR 500 | IDR 5,000 | https://www.tokopedia.com/arduinonano/soket-ic-8p-socket-ic-8-pin-8pin-dip-8-p-integrated-circuit |
-| 1.3" OLED Module I2C 128x64 | 1 | IDR 26,000 | IDR 26,000 | https://www.tokopedia.com/cncstorejogja/yellow-blue-0-96-i2c-128x64-oled-lcd-display-module-1729811659019355136 |
-| 1x40 Pin 2.0mm Male Header | 1 | IDR 2,500 | IDR 2,500 | https://www.tokopedia.com/arduinonano/1x40-pin-2-0mm-male-single-row-header-strip-40-40p-pit-2mm-tulang-ikan |
-| 1k Resistor* | 5 | IDR 1,000 | IDR 5,000 | https://www.tokopedia.com/arduinonano/10pcs-resistor-1k-1-kilo-k-ohm-1-4-watt-0-25-metal-film-tolerance-1 |
-| Battery Socket | 1 | IDR 1,000 | IDR 1,000 | https://www.tokopedia.com/arduinonano/cr2032-battery-holder-tempat-baterai-cr-2032-cr2025-2025-socket-soket |
+| Small push button | 3 | IDR 300 | IDR 900 | [Link](https://www.tokopedia.com/arduinonano/black-small-push-button-copper-foot-micro-square-4p-4pin-6x6x5mm-6x6x5) |
+| Slide switch* | 10 | IDR 500 | IDR 5,000 | [Link](https://www.tokopedia.com/arduinonano/slide-dip-switch-1p-1-pin-red-color-2-pin-2p-kaki-2-54mm-warna-merah) |
+| SMD LED | 1 | IDR 1,000 | IDR 1,000 | [Link](https://www.tokopedia.com/arduinonano/10pcs-led-smd-1206-6-warna-orange-blue-green-white-yellow-red-1730749956984767597) |
+| Buzzer | 1 | IDR 2,500 | IDR 2,500 | [Link](https://www.tokopedia.com/arduinonano/5v-buzzer-active-dc-sot-plastic-tube-long-sound-12x9-5mm-st-continuous) |
+| ATtiny85 | 1 | IDR 36,000 | IDR 36,000 | [Link](https://www.tokopedia.com/cncstorejogja/attiny85-20pu-attiny85-attiny-85-avr-dip-8) |
+| IC Socket 8-pin* | 10 | IDR 500 | IDR 5,000 | [Link](https://www.tokopedia.com/arduinonano/soket-ic-8p-socket-ic-8-pin-8pin-dip-8-p-integrated-circuit) |
+| 1.3" OLED Module I2C 128x64 | 1 | IDR 26,000 | IDR 26,000 | [Link](https://www.tokopedia.com/cncstorejogja/yellow-blue-0-96-i2c-128x64-oled-lcd-display-module-1729811659019355136) |
+| 1x40 Pin 2.0mm Male Header | 1 | IDR 2,500 | IDR 2,500 | [Link](https://www.tokopedia.com/arduinonano/1x40-pin-2-0mm-male-single-row-header-strip-40-40p-pit-2mm-tulang-ikan) |
+| 1k Resistor* | 5 | IDR 1,000 | IDR 5,000 | [Link](https://www.tokopedia.com/arduinonano/10pcs-resistor-1k-1-kilo-k-ohm-1-4-watt-0-25-metal-film-tolerance-1) |
+| Battery Socket | 1 | IDR 1,000 | IDR 1,000 | [link](https://www.tokopedia.com/arduinonano/cr2032-battery-holder-tempat-baterai-cr-2032-cr2025-2025-socket-soket) |
 | **Total Components** |  |  |**IDR 84,900 (~USD 5.03)** |  |
 | **Total Components Delivery** (including 3D printing) | | | **USD 8.44**|  |
 | PCB Printing (JLCPCB, 5 pcs)* | 1 |  |USD 4.00 | |
