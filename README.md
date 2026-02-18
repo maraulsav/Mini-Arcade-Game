@@ -1,11 +1,14 @@
 # Mini-Arcade-Game
 Currently I am making a Mini Arcade Game that can be used as a keychain and can be played. I wanted to make it for my little brother.
-My project pcb 3D view
-> Front
-<img width="510" height="643" alt="Screenshot 2026-01-20 at 10 51 06" src="https://github.com/user-attachments/assets/f922ab14-727f-445d-b943-353f2cae8c7b" />
+Here is my project overall look 
 
-> Back
-<img width="515" height="548" alt="Screenshot 2026-01-20 at 10 52 03" src="https://github.com/user-attachments/assets/84b6ec11-b210-4ae3-a81a-bba4b58134ef" />
+> Front look
+<img width="427" height="473" alt="Screenshot 2026-02-18 at 13 26 54" src="https://github.com/user-attachments/assets/f5594b20-6e4e-473e-965c-3edf982da022" />
+
+
+> Top right corner view
+<img width="593" height="502" alt="Screenshot 2026-02-18 at 13 27 27" src="https://github.com/user-attachments/assets/0fa6eb6d-cd80-4799-be0a-f5a8ebc09da1" />
+
 
 ## Features : 
 - ATtiny85
@@ -38,6 +41,12 @@ Schematic
 
 PCB
 <img width="478" height="516" alt="Screenshot 2026-01-29 at 06 02 01" src="https://github.com/user-attachments/assets/0762f72c-82b6-4d6d-b4c6-2cf54c1f8330" />
+
+## Case overview
+Hey! here is the clear picture of my case
+<img width="555" height="423" alt="Screenshot 2026-02-18 at 13 28 44" src="https://github.com/user-attachments/assets/b51042a6-0909-4a15-b052-8f5826070c9b" />
+<img width="367" height="404" alt="Screenshot 2026-02-18 at 13 29 02" src="https://github.com/user-attachments/assets/acc1d80a-f29d-454d-9f73-1e3acded27f8" />
+There I add some features like hole for the keychain, space for the switch, space for the backside component, and holes for the M3 bolt to go in in order to connect the PCB and the case
 
 
 ## Code Overview
