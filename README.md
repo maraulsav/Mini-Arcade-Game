@@ -74,9 +74,10 @@ Here should be everything you need to make this HackPad and the price list (in I
 |------------|------|
 | Components Delivery (CNC Store Yogyakarta) | IDR 21,800 |
 | Components Delivery (Arduinonano) | IDR 10,200 |
-| **Total Components** | **IDR 116,900 (~USD 6.97)** |
+| 3D Printing case delivery (printing legion)| USD 6.5 |  
+| **Total Components** | **IDR 227,576 (~USD 13.47)** |
 | PCB Printing (JLCPCB, 5 pcs)* | USD 4.00 |
 | PCB Delivery | USD 1.50 |
 | **Total PCB** | **USD 5.50** |
-| **TOTAL ALL** | **USD 12.47** |
+| **TOTAL ALL** | **USD 18.97** |
 _Notes: Items marked with (*) indicate minimum purchase quantities set by the seller._
