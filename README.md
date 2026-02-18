@@ -74,15 +74,10 @@ Here should be everything you need to make this HackPad and the price list (in I
 | 1x40 Pin 2.0mm Male Header | 1 | IDR 2,500 | IDR 2,500 | https://www.tokopedia.com/arduinonano/1x40-pin-2-0mm-male-single-row-header-strip-40-40p-pit-2mm-tulang-ikan |
 | 1k Resistor* | 5 | IDR 1,000 | IDR 5,000 | https://www.tokopedia.com/arduinonano/10pcs-resistor-1k-1-kilo-k-ohm-1-4-watt-0-25-metal-film-tolerance-1 |
 | Battery Socket | 1 | IDR 1,000 | IDR 1,000 | https://www.tokopedia.com/arduinonano/cr2032-battery-holder-tempat-baterai-cr-2032-cr2025-2025-socket-soket |
-
-| Description | Cost |
-|------------|------|
-| Components Delivery (CNC Store Yogyakarta) | IDR 21,800 |
-| Components Delivery (Arduinonano) | IDR 10,200 |
-| 3D Printing case delivery (printing legion)| USD 6.5 |  
-| **Total Components** | **IDR 227,576 (~USD 13.47)** |
-| PCB Printing (JLCPCB, 5 pcs)* | USD 4.00 |
-| PCB Delivery | USD 1.50 |
-| **Total PCB** | **USD 5.50** |
-| **TOTAL ALL** | **USD 18.97** |
+| **Total Components** | |**IDR 84,900 (~USD 5.03)** |  |
+| **Total Components Delivery** (including 3D printing) | | **USD 8.44**|  |
+| PCB Printing (JLCPCB, 5 pcs)* | 1 |  |USD 4.00 | |
+| PCB Delivery | | | USD 1.50 | |
+| **Total PCB** | | | **USD 5.50** | |
+| **TOTAL ALL** | | | **USD 18.97** |
 _Notes: Items marked with (*) indicate minimum purchase quantities set by the seller._
