@@ -37,15 +37,20 @@ These are the Footprints I used
 - Package_DIP:DIP-8_W7.62mm_Socket_LongPads
 
 Schematic 
+
 <img width="761" height="539" alt="Screenshot 2026-01-29 at 06 01 36" src="https://github.com/user-attachments/assets/f598915d-3c84-4a5f-9714-c62936505f56" />
 
 PCB
+
 <img width="478" height="516" alt="Screenshot 2026-01-29 at 06 02 01" src="https://github.com/user-attachments/assets/0762f72c-82b6-4d6d-b4c6-2cf54c1f8330" />
 
 ## Case overview
 Hey! here is the clear picture of my case
+
 <img width="555" height="423" alt="Screenshot 2026-02-18 at 13 28 44" src="https://github.com/user-attachments/assets/b51042a6-0909-4a15-b052-8f5826070c9b" />
+
 <img width="367" height="404" alt="Screenshot 2026-02-18 at 13 29 02" src="https://github.com/user-attachments/assets/acc1d80a-f29d-454d-9f73-1e3acded27f8" />
+
 There I add some features like hole for the keychain, space for the switch, space for the backside component, and holes for the M3 bolt to go in in order to connect the PCB and the case
 
 
