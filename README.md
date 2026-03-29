@@ -2,12 +2,7 @@
 Currently I am making a Mini Arcade Game that can be used as a keychain and can be played. I wanted to make it for my little brother.
 Here is my project overall look 
 
-> Front look
-<img width="427" height="473" alt="Screenshot 2026-02-18 at 13 26 54" src="https://github.com/user-attachments/assets/f5594b20-6e4e-473e-965c-3edf982da022" />
-
-
-> Top right corner view
-<img width="593" height="502" alt="Screenshot 2026-02-18 at 13 27 27" src="https://github.com/user-attachments/assets/0fa6eb6d-cd80-4799-be0a-f5a8ebc09da1" />
+<img width="239" height="163" alt="Screenshot 2026-03-29 at 13 28 28" src="https://github.com/user-attachments/assets/a5945180-c233-44ba-a4c1-70d8d425fe29" />
 
 
 ## Features : 
@@ -47,9 +42,12 @@ PCB
 ## Case overview
 Hey! here is the clear picture of my case
 
-<img width="555" height="423" alt="Screenshot 2026-02-18 at 13 28 44" src="https://github.com/user-attachments/assets/b51042a6-0909-4a15-b052-8f5826070c9b" />
+<img width="429" height="499" alt="Screenshot 2026-03-29 at 13 30 33" src="https://github.com/user-attachments/assets/fd4c85d3-69b5-46dc-9ff8-db935ef984a5" />
 
-<img width="367" height="404" alt="Screenshot 2026-02-18 at 13 29 02" src="https://github.com/user-attachments/assets/acc1d80a-f29d-454d-9f73-1e3acded27f8" />
+<img width="452" height="545" alt="Screenshot 2026-03-29 at 13 31 03" src="https://github.com/user-attachments/assets/a2130766-8424-424e-8369-2beb9f4e4b68" />
+
+<img width="537" height="608" alt="Screenshot 2026-03-29 at 13 32 02" src="https://github.com/user-attachments/assets/4ae6cffd-1151-46e9-be66-3ec8505fc29b" />
+
 
 There I add some features like hole for the keychain, space for the switch, space for the backside component, and holes for the M3 bolt to go in in order to connect the PCB and the case
 
