@@ -80,6 +80,9 @@ This Mini Arcade Game uses the Arduino IDE
 | LED SMD | Indicator light | 1 | 0.06 | https://www.tokopedia.com/arduinonano/10pcs-led-smd-1206-6-warna-orange-blue-green-white-yellow-red-1730749956984767597 | Tokopedia |
 | Slide Switch (10x) | Power control | 1 | 0.10 | https://www.tokopedia.com/indo-ware/3-pin-saklar-geser-mini-toggle-switch-slide-1p2t-3pin-ss12d00-g3 | Tokopedia |
 | Push Button | Game control input | 3 | 0.05 | https://www.tokopedia.com/arduinonano/black-small-push-button-copper-foot-micro-square-4p-4pin-6x6x5mm-6x6x5 | Tokopedia |
+Shipping : 7.21 USD
+**Total Estimated Cost: $30.46 USD**
+
 
 ## Additional notes
 Thankyoou for Stasis Hackclub, Kicad, Fusion360, and VisualStudioCode  that making this project possible
