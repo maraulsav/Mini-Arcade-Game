@@ -1,6 +1,8 @@
 # Mini-Arcade-Game
 hello guys so I have tried to build the mini arcade game. This is the project overall looks
+
 <img width="156" height="197" alt="Screenshot 2026-06-24 at 13 15 26" src="https://github.com/user-attachments/assets/d5306bdd-42e3-4512-9c52-1df378758229" />
+
 However the OLED display wont turn on (the buzzer works), I think its because I am mistaken on the way I solder  the component, Because I used a solder wire with Pb as its main component and only 2% of flux, I need to use around 450°C to liquidify it and I think  that fry the OLED Display.. Thankyou for the chance to make this project possible tho hackclub ^^
 
 
